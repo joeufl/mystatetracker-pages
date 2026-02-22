@@ -1,4 +1,7 @@
-# MyStateTracker
+---
+layout: page
+title: MyStateTracker
+---
 
 Track which U.S. states you've visited and how fully you've explored them.
 
