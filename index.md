@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MyStateTracker
+title: Home
 ---
 
 Track which U.S. states you've visited and how fully you've explored them.
